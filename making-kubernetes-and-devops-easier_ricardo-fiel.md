@@ -1,4 +1,4 @@
-Making Kubernetes easier
+Making Kubernetes and DevOps easier
 =================================================
 
 * Speaker   : Ricardo Fiel
