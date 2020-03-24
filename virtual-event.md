@@ -25,7 +25,7 @@ Links
 
 * Company: https://www.microsoft.com/
 * GitHub: https://github.com/shoegazerpt and 
-* Photo: https://rifiel.blob.core.windows.net/public/fiel1.jpg and 
+* Photo: https://rifiel.blob.core.windows.net/public/fiel1.jpg and https://frteixstorage.blob.core.windows.net/personalinfo/frteix-photo.jpg
 
 Extra Information
 -----------------
